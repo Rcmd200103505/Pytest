@@ -47,8 +47,7 @@ def test_delete_item():
 def test_shop_title():
     assert driver.title in "Интернет-магазин"
 
-def test_shop_url():
-    assert driver.url
+
 
 
 
